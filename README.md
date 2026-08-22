@@ -11,9 +11,3 @@
 | 4 | Desfazer sem pânico | [evidencias/e4-desfazer.md](evidencias/e4-desfazer.md) · [commit de revert](…/commit/HASH) |
 | 5 | Diagnóstico | [evidencias/e5-diagnostico.md](evidencias/e5-diagnostico.md) |
 
-## Como rodar
-
-```bash
-pnpm install
-pnpm verificar
-```
