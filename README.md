@@ -1,4 +1,4 @@
-# DPW — Exercícios do M00 — Versão A
+# DPW — Exercícios do M00
 
 **Nome:** Jose Adilson Silva Aroeira
 **Ambiente:** Windows 11 + PowerShell 7 (ou Ubuntu 24.04, macOS 15…)
